@@ -30,4 +30,8 @@
 <div class="burger-button">
   <span class="burger-menu__name">меню</span>
   <span class="burger-menu__button"></span>
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> beb1795ef2d562b1c6d9af3035dfd01f1527cce6
