@@ -30,4 +30,4 @@
 <div class="burger-button">
   <span class="burger-menu__name">меню</span>
   <span class="burger-menu__button"></span>
-</div class="burger-burron">
+</div>
