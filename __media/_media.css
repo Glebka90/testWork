@@ -265,6 +265,7 @@
   .swiper-button-prev {
     display: none;
   }
+
   .slide-prev1,
   .slide-prev2,
   .slide-prev3 {
@@ -298,6 +299,10 @@
     height: 250px;
     overflow: auto;
   }
+  .swiper-slider__button {
+    max-width: 100%;
+  }
+
   .swiper-slider__buttons {
     height: 250px;
     margin: 0 0 10px 0;
@@ -310,4 +315,14 @@
   .agreements-text {
     max-width: 250px;
   }
+  .img-slide {
+    width: 100%;
+    height: 600px !important;
+  }
+  .slide-block {
+    width: 290px;
+    height: 270px;
+    top: 250px;
+  }
 }
+/*  */
