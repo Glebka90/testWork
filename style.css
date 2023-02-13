@@ -180,6 +180,10 @@ svg path {
   flex-direction: column;
   background: url(./__img/_background/clouds.png) no-repeat 0 160%;
 }
+.info-heading{
+  text-align: center;
+  padding: 0 0 25px 0;
+}
 .main__heading,
 .main__text-info,
 .main__text-price {
