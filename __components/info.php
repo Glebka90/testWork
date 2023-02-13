@@ -1,4 +1,5 @@
 <section class="info">
+   <h2 class="info-heading" >О комплексе</h2>
   <div class="menu-info">
     <div class="box-info">
       <img class="box-info__icon" src="../__img/_icon-box/key.svg " alt="icon">
